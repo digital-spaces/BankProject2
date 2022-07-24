@@ -1,9 +1,3 @@
-/************************************
-Morgan Fox
-SNHU CS-210
-2022-06-04
-Project 2
-*************************************/
 #include <iostream>
 #include "BankAccount.h"
 using namespace std;

@@ -1,10 +1,3 @@
-/************************************
-Morgan Fox
-SNHU CS-210
-2022-06-04
-Project 2
-*************************************/
-
 // Program setup
 #include <iostream>
 #include <vector>
